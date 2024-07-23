@@ -24,7 +24,7 @@ In this article, we'll create a landing page Website
 
 APPROACH:
 
-We will walk through the following steps to create a captivating landing page with HTML and CSS.
+The following steps to create a captivating landing page with HTML and CSS.
 •	Create the basic structure using HTML.
 •	Build a responsive Hamburger navigation menu.
 •	Create a hero section.
@@ -34,9 +34,18 @@ Building the Landing Page Using HTML and CSS
 
 1. Creating the Basic Structure Using HTML
    
-The two primary sections of the landing page are the header and the hero sections. The header area contains the navigation menu, while the hero section has some text and images. We will learn more about the hero section later.
+The two primary sections of the landing page are the header and the hero sections. The header area contains the navigation menu, while the hero section has some text and images.
 
 https://github.com/user-attachments/assets/941a4d2a-c5e5-424d-b6f3-2a7dca787484
+
+2. Adding the Basic CSS
+The below code includes the necessary CSS. We have imported a Google font and created a dark background.
+
+https://github.com/user-attachments/assets/1e0425be-4ced-442a-868d-0058458f91da
+
+
+
+
 
 
 
